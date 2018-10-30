@@ -1,2 +1,2 @@
-# Backgroung-processing
-Processing background of a Image.
+# Image Processing
+Processing Image and concluding the situation.
